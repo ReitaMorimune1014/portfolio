@@ -138,23 +138,23 @@ https://nekomikandayo.github.io/portfolio/
 
 - アルバイトで小学生にScratch・Minecraft・HTML/CSSを指導
 
+- FuelPHP + Knockout.js を用いたWebアプリ開発
+
+- The Web Developer Bootcamp を受講
+  
 ---
 
 # 📈 Currently Working On
-
-- FuelPHP + Knockout.js を用いたWebアプリ開発
-- GitHubを活用した開発記録の習慣化
 - GitHub (`TIL`) を用いた思考プロセスの言語化
-- The Web Developer Bootcamp を受講
 - React / Next.js / クリーンコード学習
 - 長期インターンでの実務経験
 - 応用情報技術者試験 勉強中
+- React の習得
 
 ---
 
 # 🌱 Next Goal
 
-- React の習得
 - TypeScript の習得
 - Next.js を用いたモダンフロントエンド開発
 - サーバーサイド理解の強化
