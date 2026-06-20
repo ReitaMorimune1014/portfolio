@@ -9,7 +9,7 @@
 ## 🔗 Portfolio
 
 🌐 Portfolio Site  
-https://nekomikandayo.github.io/portfolio/
+https://reitamorimune1014.github.io/portfolio/
 
 ---
 
